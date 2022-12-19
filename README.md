@@ -2,4 +2,4 @@
 
 Your site is live at https://truong-cot.github.io/PhaoHoa/
 
-Cre: Internet
+Cre: By Bá Trường
